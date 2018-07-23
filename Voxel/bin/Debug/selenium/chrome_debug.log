@@ -1,0 +1,5 @@
+[9432:15420:0508/235451.856:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M67, around May 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[9432:15644:0508/235452.055:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[9432:15644:0508/235452.130:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[9432:15420:0508/235452.332:INFO:CONSOLE(1157)] "<link rel=preload> must have a valid `as` value", source: https://s.ytimg.com/yts/jsbin/desktop_polymer-vfl0_mKcl/desktop_polymer.js (1157)
+[9432:15420:0508/235452.443:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://s.ytimg.com/yts/jsbin/network-vflNZTggj/network.js (15)
