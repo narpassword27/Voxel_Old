@@ -8,3 +8,12 @@ C:\Users\Darren\Desktop\Voxel\Voxel\bin\Debug\WebDriver.xml
 C:\Users\Darren\Desktop\Voxel\Voxel\obj\Debug\Voxel.csprojAssemblyReference.cache
 C:\Users\Darren\Desktop\Voxel\Voxel\obj\Debug\Voxel.csproj.CoreCompileInputs.cache
 C:\Users\Darren\Desktop\Voxel\Voxel\obj\Debug\Voxel.csproj.CopyComplete
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\bin\Debug\Voxel.exe.config
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\bin\Debug\Voxel.exe
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\bin\Debug\Voxel.pdb
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\bin\Debug\WebDriver.dll
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\bin\Debug\WebDriver.xml
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\obj\Debug\Voxel.csproj.CoreCompileInputs.cache
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\obj\Debug\Voxel.csproj.CopyComplete
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\obj\Debug\Voxel.exe
+C:\Users\Darren\Documents\GitHub\Voxel\Voxel\obj\Debug\Voxel.pdb

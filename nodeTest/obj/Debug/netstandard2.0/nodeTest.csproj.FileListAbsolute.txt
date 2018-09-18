@@ -1,0 +1,8 @@
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\bin\Debug\netstandard2.0\nodeTest.deps.json
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\bin\Debug\netstandard2.0\nodeTest.dll
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\bin\Debug\netstandard2.0\nodeTest.pdb
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\obj\Debug\netstandard2.0\nodeTest.csproj.CoreCompileInputs.cache
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\obj\Debug\netstandard2.0\nodeTest.AssemblyInfoInputs.cache
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\obj\Debug\netstandard2.0\nodeTest.AssemblyInfo.cs
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\obj\Debug\netstandard2.0\nodeTest.dll
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTest\obj\Debug\netstandard2.0\nodeTest.pdb

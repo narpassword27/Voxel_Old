@@ -34,17 +34,15 @@ namespace Voxel
                     Instance = t.GetConstructors().First().Invoke(new object[] { }) as Modules.ISkill,
                     Name = t.Name
                 })
+                .Select(skill =>
+                {
+                    Grammar skillGrammar = skill.Instance.GetGrammar();
+                    skillGrammar.Name = skill.Name;
+                    skillGrammar.SpeechRecognized += skill.Instance.SpeechRecognized;
+                    commands.LoadGrammar(skillGrammar);
+                    return skill;
+                })
                 .ToList();
-
-            foreach (var skill in skills)
-            {
-                Grammar skillGrammar = skill.Instance.GetGrammar();
-                skillGrammar.Name = skill.Name;
-                skillGrammar.SpeechRecognized += skill.Instance.SpeechRecognized;
-
-                commands.LoadGrammar(skillGrammar);
-            }
-
 
             wake.LoadGrammarAsync(new Grammar(new GrammarBuilder("voxel")) { Name = "Wake"});
             wake.SpeechRecognized += Wake_SpeechRecognized;

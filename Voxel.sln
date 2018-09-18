@@ -5,6 +5,16 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel", "Voxel\Voxel.csproj", "{E876C62B-75F3-4823-A6F0-DAE6D278594C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{397ADE17-2BE5-4135-93E1-32C9FA66E20F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C5190DE7-3AD2-484C-85C6-28E9EDB918E5} = {C5190DE7-3AD2-484C-85C6-28E9EDB918E5}
+		{F7E376EF-1DA1-485F-9728-AFC27EE93023} = {F7E376EF-1DA1-485F-9728-AFC27EE93023}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nodeTest", "nodeTest\nodeTest.csproj", "{C5190DE7-3AD2-484C-85C6-28E9EDB918E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nodeTestClient", "nodeTestClient\nodeTestClient.csproj", "{F7E376EF-1DA1-485F-9728-AFC27EE93023}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +25,23 @@ Global
 		{E876C62B-75F3-4823-A6F0-DAE6D278594C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E876C62B-75F3-4823-A6F0-DAE6D278594C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E876C62B-75F3-4823-A6F0-DAE6D278594C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397ADE17-2BE5-4135-93E1-32C9FA66E20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397ADE17-2BE5-4135-93E1-32C9FA66E20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397ADE17-2BE5-4135-93E1-32C9FA66E20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397ADE17-2BE5-4135-93E1-32C9FA66E20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5190DE7-3AD2-484C-85C6-28E9EDB918E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5190DE7-3AD2-484C-85C6-28E9EDB918E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5190DE7-3AD2-484C-85C6-28E9EDB918E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5190DE7-3AD2-484C-85C6-28E9EDB918E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E376EF-1DA1-485F-9728-AFC27EE93023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E376EF-1DA1-485F-9728-AFC27EE93023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E376EF-1DA1-485F-9728-AFC27EE93023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E376EF-1DA1-485F-9728-AFC27EE93023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF57F9D-62F2-48A1-B3FB-353F998F4FAD}
 	EndGlobalSection
 EndGlobal

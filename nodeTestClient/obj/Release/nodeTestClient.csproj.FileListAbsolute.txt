@@ -1,0 +1,7 @@
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\obj\Release\nodeTestClient.csprojAssemblyReference.cache
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\obj\Release\nodeTestClient.csproj.CoreCompileInputs.cache
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\bin\Release\nodeTestClient.exe.config
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\bin\Release\nodeTestClient.exe
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\bin\Release\nodeTestClient.pdb
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\obj\Release\nodeTestClient.exe
+C:\Users\Darren\Documents\GitHub\Voxel\nodeTestClient\obj\Release\nodeTestClient.pdb

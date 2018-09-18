@@ -1,0 +1,13 @@
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\Server.exe.config
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\Server.exe
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\Server.pdb
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\Voxel.exe
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\WebDriver.dll
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\Voxel.pdb
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\Voxel.exe.config
+C:\Users\Darren\Documents\GitHub\Voxel\Server\bin\Release\WebDriver.xml
+C:\Users\Darren\Documents\GitHub\Voxel\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\Darren\Documents\GitHub\Voxel\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Darren\Documents\GitHub\Voxel\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\Darren\Documents\GitHub\Voxel\Server\obj\Release\Server.exe
+C:\Users\Darren\Documents\GitHub\Voxel\Server\obj\Release\Server.pdb

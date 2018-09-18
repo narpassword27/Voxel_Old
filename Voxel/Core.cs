@@ -10,6 +10,8 @@ namespace Voxel
     {
         static int audioVolume = 10;
         static int voiceVolume = 10;
+        //TODO: local settings
+        internal static string clientName = "";
 
         public static void SetVolume(int volume)
         {

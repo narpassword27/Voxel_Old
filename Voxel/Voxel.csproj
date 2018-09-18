@@ -52,12 +52,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Communication\Prompt.cs" />
+    <Compile Include="Communication\Response.cs" />
+    <Compile Include="Communication\ResponseAuth.cs" />
     <Compile Include="Core.cs" />
     <Compile Include="Modules\Conversation\Conversation_Diss.cs" />
     <Compile Include="Modules\Conversation\Conversation_Joke.cs" />
     <Compile Include="Modules\Core\Core_Mute.cs" />
     <Compile Include="Modules\Core\Core_Stop.cs" />
     <Compile Include="Modules\Core\Core_Volume.cs" />
+    <Compile Include="Modules\Core\Core_Update.cs" />
     <Compile Include="Modules\ISkill.cs" />
     <Compile Include="Modules\Media\Media_Youtube.cs" />
     <Compile Include="Program.cs" />
